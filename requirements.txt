@@ -1,0 +1,12 @@
+streamlit
+pandas 
+numpy
+matplotlib
+tqdm
+requests
+BeautifulSoup4
+lxml
+datetime
+yfinance
+scikit-learn
+xgboost
